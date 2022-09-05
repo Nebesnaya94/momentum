@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link href="assets/favicon.ico" rel="shortcut icon" />
+  <link rel="stylesheet" href="css/owfont-regular.css">
+  <link rel="stylesheet" href="css/style.css" />
+  <title>momentum</title>
+</head>
+
+<body>
+  <header class="header">
+    <div class="player">
+      <div class="player-controls">
+        <button class="play-prev player-icon"></button>
+        <button class="play player-icon"></button>
+        <button class="play-next player-icon"></button>
+      </div>
+      <ul class="play-list"></ul>
+    </div>
+    <div class="weather">
+      <input type="text" class="city" />
+      <i class="weather-icon owf"></i>
+      <div class="weather-error"></div>
+      <div class="description-container">
+        <span class="temperature"></span>
+        <span class="weather-description"></span>
+      </div>
+      <div class="wind"></div>
+      <div class="humidity"></div>
+    </div>
+  </header>
+  <main class="main">
+    <div class="slider-icons">
+      <button class="slide-prev slider-icon"></button>
+      <button class="slide-next slider-icon"></button>
+    </div>
+    <time class="time"></time>
+    <date class="date"></date>
+    <div class="greeting-container">
+      <span class="greeting"></span>
+      <input type="text" class="name" placeholder="[Enter name]" />
+    </div>
+  </main>
+  <footer class="footer">
+    <button class="change-quote"></button>
+    <div class="quote-container">
+      <div class="quote"></div>
+      <div class="author"></div>
+    </div>
+    <button class="change-language change-button">EN</button> <!-- добавила кнопку переключения языка -->
+    <button class="change-background change-button"><img
+        src="https://s1.iconbird.com/ico/2013/8/429/w512h5121377939218185066picturestreamline.png" alt="imgd"></button>
+    <!-- добавила кнопку переключения изображения -->
+    <button class="settings"></button> <!-- добавила кнопку настроек -->
+    <div class="settings-container">
+      <div class="hide hide-time">Hide time</div>
+      <div class="hide hide-date">Hide date</div>
+      <div class="hide hide-greeting">Hide greeting</div>
+      <div class="hide hide-quote">Hide quote</div>
+      <div class="hide hide-weather">Hide weather</div>
+      <div class="hide hide-audio-player">Hide audio player</div>
+    </div>
+    </div>
+    <div class="links-container">
+      <div>2022</div>
+      <div><a class="rs-link" target="_blank" href="https://rs.school/js/"><img
+            src="https://nebesnaya94.github.io/rsschool-cv/rs_school_js.svg" alt="logo-rsschool" /></a></div>
+      <div><a class="my-github" target="_blank" href="https://github.com/Nebesnaya94">
+          <img class="git-logo" src="https://nebesnaya94.github.io/rsschool-cv/git-logo.png" alt="git-logo" />
+        </a></div>
+    </div>
+  </footer>
+  <script type="module" src="js/script.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,92 @@
+[
+  {
+    "ru": {
+      "text": "Пишите код так, как будто сопровождать его будет склонный к насилию психопат, который знает, где вы живете",
+      "author": "Стив Макконнелл"
+    },
+    "en": {
+      "text": "Write code as if it were accompanied by a violent psychopath who knows where you live",
+      "author": "Steve McConnell"
+    }
+  },
+  {
+    "ru": {
+      "text": "Сложность программы растет до тех пор, пока не превысит способности программиста",
+      "author": "Артур Блох. Законы Мэрфи"
+    },
+    "en": {
+      "text": "The complexity of the program grows until it exceeds the ability of the programmer.",
+      "author": "Arthur Bloch. Murphy's laws"
+    }
+  },
+  {
+    "ru": {
+      "text": "Ходить по воде и разрабатывать программы, следуя ТЗ, очень просто… если они заморожены",
+      "author": "И. Берард"
+    },
+    "en": {
+      "text": "It's very easy to walk on water and develop programs following the ToR... if they are frozen",
+      "author": "I. Berard"
+    }
+  },
+  {
+    "ru": {
+      "text": "Если твой код работает, значит это хороший код",
+      "author": "М. Перссон"
+    },
+    "en": {
+      "text": "If your code works, then it's good code.",
+      "author": "M. Persson"
+    }
+  },
+  {
+    "ru": {
+      "text": "На собеседованиях я обычно спрашиваю, часто ли испытуемый использует костыли. Это хороший способ отсеять патологических лжецов",
+      "author": "С. Возняк"
+    },
+    "en": {
+      "text": "In interviews, I usually ask how often the subject uses crutches. This is a good way to weed out pathological liars.",
+      "author": "S. Wozniak"
+    }
+  },
+  {
+    "ru": {
+      "text": "Кофе не помогает программировать, зато он приятен на вкус",
+      "author": "Д. Гослинг"
+    },
+    "en": {
+      "text": "Coffee doesn't help you program, but it tastes good",
+      "author": "D. Gosling"
+    }
+  },
+  {
+    "ru": {
+      "text": "Не бывает хороших языков, бывают хорошие программисты",
+      "author": "А. Хейлсберг"
+    },
+    "en": {
+      "text": "There are no good languages, there are good programmers",
+      "author": "A. Hejlsberg"
+    }
+  },
+  {
+    "ru": {
+      "text": "Иногда мне кажется, что единственным универсумом в программировании является цикл",
+      "author": "А. Перлис"
+    },
+    "en": {
+      "text": "Sometimes it seems to me that the only universe in programming is the loop",
+      "author": "A. Perlis"
+    }
+  },
+  {
+    "ru": {
+      "text": "Если отладка — процесс удаления ошибок, то программирование должно быть процессом их внесения",
+      "author": "Э.В. Дейкстра"
+    },
+    "en": {
+      "text": "If debugging is the process of removing bugs, then programming must be the process of introducing them.",
+      "author": "E.V. Dijkstra"
+    }
+  }
+]
